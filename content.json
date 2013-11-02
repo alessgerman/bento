@@ -92,6 +92,11 @@
         "url": "http://teamtreehouse.com/library/websites/javascript-foundations"
       },
       {
+        "name": "CodeCombat",
+        "level": 0,
+        "url": "http://codecombat.com"
+      },
+      {
         "name": "Superhero.js",
         "level": 1,
         "url": "http://superherojs.com/"
